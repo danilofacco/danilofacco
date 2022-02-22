@@ -14,9 +14,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=danilofacco.danilofacco)
 
 <br />
-
- 
-  <img align="right" alt="GIF" src="https://github.com/danilofacco/danilofacco/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:faccodanilo@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
